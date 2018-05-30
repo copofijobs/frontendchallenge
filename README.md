@@ -10,7 +10,7 @@ In a fictional world, we are branching into the music business and need a new a 
 - Show top 100 albums based on the json feed here:  https://itunes.apple.com/us/rss/topalbums/limit=100/json
 - A clean modern look
 - Clean, readable, maintainable codebase
-- Source code on Github
+- Source code on Github / Bitbucket
 - Cross browser support (or graceful degradation) 
 - Responsive design and implementation
 - A good user experience
