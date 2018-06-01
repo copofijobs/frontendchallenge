@@ -23,8 +23,6 @@ Choose one of the following routes for your journey.
 -------
 ### Novice
 
-*"Hey! Look! Listen!"*
-
 **TASKS**
 * All of the base requirements
 + Create and implement (using HTML, CSS and JS) a basic design 
@@ -33,8 +31,6 @@ Choose one of the following routes for your journey.
 
 -------
 ### Intermediate
-
-*"I know Kung Fu."*
 
 **TASKS**
 * All of the base, and novice requirements
@@ -46,8 +42,6 @@ Choose one of the following routes for your journey.
 -------
 ### Expert
 
-*"Watch and learn Grasshopper."*
-
 **TASKS**
 * All of the base, novice, and intermediate requirements
 + Allow the top 100 to be searchable 
@@ -57,8 +51,6 @@ Choose one of the following routes for your journey.
 
 -------
 ### Bonus Round
-
-*"All is fair in love and bonus rounds"*
 
 **TASKS**
 + Use a language that compiles to JavaScript (CoffeeScript, TypeScript, Dart, etc...)
